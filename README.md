@@ -22,7 +22,7 @@ This Flutter application allows users to browse and manage a list of products fe
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sayedmamdouh94/store-task-app.git
+   git clone https://github.com/SayedMamdouh94/store-task-app.git
 2. Navigate to the project directory:
   cd store-task-app
 3. Install dependencies:

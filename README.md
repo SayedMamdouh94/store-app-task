@@ -4,9 +4,9 @@
 This Flutter application allows users to browse and manage a list of products fetched from an external API. Users can view product details, mark products as favorites, manage their shopping cart, and access their favorite products on a separate screen.
 
 ## Features
-- **Product Listing Screen**: Displays a responsive grid/list of products with title, image, and price.
+- **Product Listing Screen**: Displays a responsive grid/list of products with title, image, price, and rate.
 - **Product Details Screen**: Shows detailed information about the selected product.
-- **Favorites Feature**: Users can mark products as favorites, which are stored locally.
+- **Favorites Feature**: Users can mark products as favorites, which are stored locally using Hive.
 - **Cart Screen**: Users can add products to their cart, with automatic price calculations for a smooth checkout experience.
 - **Responsive Layout**: Adapts to mobile, tablet, and desktop screens using Media Query and Layout Builder.
 - **Performance Optimization**: Utilizes efficient state management with Provider.
